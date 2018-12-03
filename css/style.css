@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	font-family: Georgia;
+}
+
+div {
+	margin: auto;
+	text-align: center;
+}
+
+div input {
+	font-size: 16px;
+	padding: 10px 20px;
+	background-color: #dedada;
+	display: block;
+    margin: 30px auto;
+    outline: 0;
+
+}
